@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.page1 {
+  height: 100vh;
+  width: 100vw;
+  background-color: #efeae3;
+  position: relative;
+}
+nav {
+  height: 100px;
+  width: 100%;
+  background-color: aqua;
+}
